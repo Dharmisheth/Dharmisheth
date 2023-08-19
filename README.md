@@ -8,7 +8,7 @@
 - 💬 Ask me about **anything on tech.**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/dharmi-sheth-a2491120b/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="kaushik-lakhani-08012001" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/dharmi-sheth-a2491120b/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="https://www.linkedin.com/in/dharmi-sheth-a2491120b" height="40" width="40" /></a>
 
 <h3 align="left">My GitHub stats:</h3>
 
